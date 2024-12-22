@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        country: 'USA',
+        country: 'US',
         place: 'Austin Downtown',
         startDate: new Date('2023-06-19'),
         endDate: new Date('2023-06-21'),
@@ -10,7 +10,7 @@ export default [
     },
     {
         id: 2,
-        country: 'USA',
+        country: 'US',
         place: 'Los Angeles Downtown',
         startDate: new Date('2023-11-20'),
         endDate: new Date('2023-11-26'),
