@@ -96,6 +96,6 @@ export default [
         startDate: new Date('2024-12-10'),
         endDate: new Date('2024-12-16'),
         description: 'Madrid, the vibrant capital of Spain, is a city that blends historical elegance with modern energy. Known for its grand plazas, world-class museums like the Prado, and lively tapas bars, Madrid offers a perfect mix of culture, cuisine, and nightlife.',
-        picture: 'img/spain-trip.png'
+        picture: 'img/madrid-trip.png'
     },
 ]
