@@ -1,3 +1,4 @@
+//Contains the structure for the Trip component
 export default function Trip({country, place, startDate, endDate, description, picture}) {
     
     // Helper function to configure the date format from the date object in the data
