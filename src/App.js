@@ -1,4 +1,4 @@
-
+// Contains main content for the final App
 import './App.css';
 
 import Navbar from "./components/Navbar.js";
