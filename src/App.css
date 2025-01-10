@@ -41,7 +41,7 @@ p {
   text-align: justify;
 }
 
-/*Navbar component*/
+/* Navbar component */
 nav {
   background-color: #5ABFF5;
   display: flex;
@@ -61,7 +61,7 @@ nav {
   font: arial;
 }
 
-/*Trip component*/
+/* Trip component */
 .trip--container {
   display: flex;
   align-items: center;
