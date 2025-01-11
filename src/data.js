@@ -1,3 +1,4 @@
+//Main array with trips
 export default [
     {
         id: 1,
