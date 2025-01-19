@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar.js";
 import Trip from './components/Trip.js';
 import data from './data.js'
 
+// Get the info from data.js
 function App() {
   const trips = data.map((trip) => {
     return <Trip 
